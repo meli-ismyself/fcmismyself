@@ -30,7 +30,7 @@ public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
         // Get updated InstanceID token.
         Log.d(TAG, "Trying to get FCM Token ID");
         refreshedToken = FirebaseInstanceId.getInstance().getToken();
-        //RegisterToken(refreshedToken);
+        RegisterToken(refreshedToken);
         Log.d(TAG, "Refreshed token: " + refreshedToken);
 //        SharedPreferences sharedPreferences = getSharedPreferences(Config.PPref, MODE_PRIVATE);
 //        sharedPreferences.edit().putString(Config.PFCMToken, refreshedToken).commit();
