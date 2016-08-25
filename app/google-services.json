@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "860962138109",
+    "firebase_url": "https://fcmismyself.firebaseio.com",
+    "project_id": "fcmismyself",
+    "storage_bucket": "fcmismyself.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860962138109:android:24b501b4d00ef0d9",
+        "android_client_info": {
+          "package_name": "com.meliismyself.fcmismyself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860962138109-ehi56eqs0h08tcellib7jmed02quocvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg314a315mBoiGyk7JpPWC2NHuryxKFks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
